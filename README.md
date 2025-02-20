@@ -32,6 +32,4 @@ I'm a tech enthusiast who lives and breathes **Machine Learning**, **Artificial 
 
 ## 🌟 My Motto
 
-> "Innovate, iterate, and inspire."
-
-![[Coding in Progress](https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif](https://external-preview.redd.it/gamer-room-based-on-valorant-v0-UY8WRyXPpQTb4h-Ki0UI6Llsgjz0N_NQMh592F8qwR0.png?width=1080&crop=smart&format=pjpg&auto=webp&s=49a01abd32bc0f3e405ac05e1ddad19ff15a1c49))
+># "Innovate, iterate, and inspire."
