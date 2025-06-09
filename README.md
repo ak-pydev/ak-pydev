@@ -4,30 +4,44 @@
 
 ---
 
-I'm a Data Science student with a passion for building and deploying end-to-end machine learning solutions. My experience spans from in-depth data analysis and research to developing production-grade AI applications.
+I'm a Data Science student with hands-on experience in developing and deploying end-to-end machine learning systems. My focus lies in solving real-world problems using AI, cloud, and scalable data infrastructure.
 
-## 📊 My GitHub Stats
+---
+
+## 💻 Tech Stack
+
+**Languages:** Python, R, Java, JavaScript  
+**Machine Learning & AI:** PyTorch, TensorFlow, Scikit-learn, Hugging Face, LangChain, NLTK, OpenAI API  
+**MLOps & Data Engineering:** Docker, Kubernetes, MLflow, Airflow, Kafka, Spark, Git, Jenkins, CI/CD  
+**Databases & Cloud:** SQL (PostgreSQL, MySQL, MS SQL), NoSQL (MongoDB, Firebase), Vector DBs (Pinecone, Chroma)  
+AWS • Azure • GCP
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ak-pydev&show_icons=true&theme=tokyonight&rank_icon=github" alt="Aaditya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ak-pydev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak-pydev&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-## 🛠️ Tech Stack
+---
 
-* **Languages:** Python, R, Java, JavaScript 
-* **ML/AI:** PyTorch, TensorFlow, Scikit-learn, LangChain, NLTK, Hugging Face, OpenAI 
-* **Data Engineering & MLOps:** Docker, Kubernetes, MLflow, Airflow, Kafka, Spark, Git, Jenkins, CI/CD 
-* **Database & Cloud:** SQL (MS SQL Server, PostgreSQL, MySQL), NoSQL (MongoDB, Firebase), Vector DB (Pinecone, Chroma), AWS, Azure, GCP 
+## 📄 Certifications
 
-## Certifications
+- Oracle Cloud Infrastructure 2024 Generative AI Certified Professional  
+- Microsoft Azure AI Fundamentals  
+- Fundamentals of Deep Learning – NVIDIA
 
-* **Oracle Cloud Infrastructure 2024 Generative AI Certified Professional** 
-* **Microsoft Azure AI Fundamentals** 
-* **Fundamentals of Deep Learning (NVIDIA)** 
+---
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin)](https://www.linkedin.com/in/-khanalaaditya/)
-[![GitHub](https://img.shields.io/badge/GitHub-follow-black?logo=github)](https://github.com/ak-pydev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-orange)](https://ak-codes-py.github.io/Aaditya_Khanal_Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin)](https://www.linkedin.com/in/-khanalaaditya/)  
+[![GitHub](https://img.shields.io/badge/GitHub-follow-black?logo=github)](https://github.com/ak-pydev)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-orange)](https://ak-codes-py.github.io/Aaditya_Khanal_Portfolio/)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-profile-blue?logo=kaggle)](https://www.kaggle.com/aadityaiscoding)
+
+---
+
+📍 Open to internship and early-career roles across the US.
