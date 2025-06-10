@@ -41,9 +41,6 @@ AWS • Azure • GCP
   <!-- GitHub Trophy Case -->
   <img src="https://github-profile-trophy.vercel.app/?username=ak-pydev&theme=tokyonight&margin-w=15&margin-h=15" alt="Trophy Case" />
 
-  <!-- Top languages (compact) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak-pydev&layout=compact&theme=tokyonight" alt="Top Languages Compact" />
-</p>
 
 <p align="center">
   <!-- Your best repo showcase -->
@@ -51,22 +48,7 @@ AWS • Azure • GCP
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ak-pydev&repo=another-repo&theme=tokyonight" alt="Pinned Repo: another-repo" />
 </p>
 
-<p align="center">
-  <!-- WakaTime coding activity heatmap (if you use WakaTime) -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ak-pydev&range=last_30_days&theme=tokyonight" alt="WakaTime Stats" />
-</p>
 
----
-
-## 🔖 Quick Badges
-
-<p align="center">
-  <!-- Build status, coverage, followers, license -->
-  <img src="https://img.shields.io/github/actions/workflow/status/ak-pydev/your-repo/ci.yml?style=for-the-badge&logo=github" alt="Build Status" />
-  <img src="https://img.shields.io/codecov/c/github/ak-pydev/your-repo?style=for-the-badge" alt="Coverage" />
-  <img src="https://img.shields.io/github/followers/ak-pydev?label=Follow&style=for-the-badge" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/license/ak-pydev/your-repo?style=for-the-badge" alt="License" />
-</p>
 
 ---
 
