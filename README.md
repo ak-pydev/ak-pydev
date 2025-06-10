@@ -39,10 +39,29 @@ AWS • Azure • GCP
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin)](https://www.linkedin.com/in/-khanalaaditya/)  
-[![GitHub](https://img.shields.io/badge/GitHub-follow-black?logo=github)](https://github.com/ak-pydev)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-orange)](https://ak-codes-py.github.io/Aaditya_Khanal_Portfolio/)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-profile-blue?logo=kaggle)](https://www.kaggle.com/aadityaiscoding)
+<p align="center">
+  <a href="https://www.linkedin.com/in/-khanalaaditya/">
+    <img src="https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin"
+         height="40"
+         alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ak-pydev">
+    <img src="https://img.shields.io/badge/GitHub-follow-black?logo=github"
+         height="40"
+         alt="GitHub" />
+  </a>
+  <a href="https://ak-codes-py.github.io/Aaditya_Khanal_Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-visit-orange"
+         height="40"
+         alt="Portfolio" />
+  </a>
+  <a href="https://www.kaggle.com/aadityaiscoding">
+    <img src="https://img.shields.io/badge/Kaggle-profile-blue?logo=kaggle"
+         height="40"
+         alt="Kaggle" />
+  </a>
+</p>
+
 
 ---
 
