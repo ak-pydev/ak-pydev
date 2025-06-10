@@ -23,11 +23,6 @@ AWS • Azure • GCP
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak-pydev&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
----
-
-## 📊 Advanced GitHub Metrics
-
-
 <p align="center">
   <!-- GitHub Trophy Case -->
   <img src="https://github-profile-trophy.vercel.app/?username=ak-pydev&theme=tokyonight&margin-w=15&margin-h=15" alt="Trophy Case" />
