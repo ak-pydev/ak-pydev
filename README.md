@@ -2,8 +2,6 @@
 
 > Building intelligent, data-driven solutions from concept to production.
 
----
-
 I'm a Data Science student with hands-on experience in developing and deploying end-to-end machine learning systems. My focus lies in solving real-world problems using AI, cloud, and scalable data infrastructure.
 
 ---
@@ -29,26 +27,10 @@ AWS • Azure • GCP
 
 ## 📊 Advanced GitHub Metrics
 
-<p align="center">
-  <!-- Overall GitHub stats (includes private commits if you set count_private=true) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ak-pydev&hide=contribs&theme=tokyonight&show_icons=true&count_private=true" alt="GitHub Advanced Stats" />
-
-  <!-- Yearly contribution activity graph -->
-  <img src="https://github-readme-stats.vercel.app/api/commit-activity?username=ak-pydev&theme=tokyonight" alt="Commit Activity Graph" />
-</p>
 
 <p align="center">
   <!-- GitHub Trophy Case -->
   <img src="https://github-profile-trophy.vercel.app/?username=ak-pydev&theme=tokyonight&margin-w=15&margin-h=15" alt="Trophy Case" />
-
-
-<p align="center">
-  <!-- Your best repo showcase -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ak-pydev&repo=your-repo-name&theme=tokyonight" alt="Pinned Repo: your-repo-name" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ak-pydev&repo=another-repo&theme=tokyonight" alt="Pinned Repo: another-repo" />
-</p>
-
-
 
 ---
 
